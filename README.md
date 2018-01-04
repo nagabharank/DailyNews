@@ -1,4 +1,4 @@
 # DailyNews
-News application that displays the news API using Alamofire
+News application that displays the content in table view using API 
 
-# This is an example code for Alamofire
+# Table view content
